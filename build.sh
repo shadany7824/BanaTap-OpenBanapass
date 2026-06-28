@@ -25,6 +25,7 @@ cp build/bngrw_wm6_10304.dll dist/wm6/1.03.04/bngrw.dll
 cp build/bngrw_w6r_20008.dll dist/w6r/2.00.08/bngrw.dll
 cp build/bngrw_w6w_30503.dll dist/w6w/3.05.03/bngrw.dll
 cp build/bngrw_w6p_40013.dll dist/w6p/4.00.13/bngrw.dll
+
 echo "Build complete!"
 echo "  dist/wm5/1.05.00/bngrw.dll"
 echo "  dist/w5x/2.00.02/bngrw.dll"
