@@ -1,6 +1,6 @@
 #include "banapass.h"
 
-#define PATCH_OFFSET 0x109F3D0
+#define PATCH_OFFSET 0x9D7C2B
 
 BOOL WINAPI DllMain(HMODULE module, DWORD reason, LPVOID reserved) {
     if (reason == DLL_PROCESS_ATTACH) {
