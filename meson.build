@@ -99,11 +99,11 @@ library(
     link_args: ['-static'],
 )
 
-# W6W 3.05.03
+# W6P 4.00.13
 library(
     'bngrw_w6p_40013',
     include_directories: ['src'],
-    sources: common_sources + ['src/dllmain_w6w_30503.cpp'],
+    sources: common_sources + ['src/dllmain_w6p_40013.cpp'],
     name_prefix: '',
     link_args: ['-static'],
 )
